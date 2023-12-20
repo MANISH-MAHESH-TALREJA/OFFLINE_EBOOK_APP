@@ -1,0 +1,10 @@
+bool isDrawerOpen = false;
+double xOffset = 0;
+double yOffset = 0;
+double scaleFactor = 1;
+bool darkMode = true;
+double fontSizeForReadAlong = 15;
+double lineSpacingForReadAlong = 1;
+double letterSpacingForReadAlong = 1;
+bool bookNotComplete = true;
+String? languageFlag;
